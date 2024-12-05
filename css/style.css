@@ -71,3 +71,27 @@ body {
 .nav-item a:hover {
 	color: rgb(0, 172, 223);
 }
+
+/* footer */
+footer {
+	height: 80px;
+	line-height: 80px;
+	background-color: #07304b;
+	color: rgb(166, 215, 136);
+	text-align: center;
+}
+
+.icon-box {
+	margin: 0 10px;
+}
+
+.icon-box a {
+	padding: 0 5px;
+	font-size: 20px;
+	color: rgb(166, 215, 136);
+	transition: color 0.4s;
+}
+
+.icon-box a:hover {
+	color: rgb(0, 172, 223);
+}
